@@ -98,3 +98,20 @@ ON/OFF:
 ```bash
 screen -r bitz
  ```
+
+If Your Node Are Crashed So Use This Cmd
+```bash
+RUST_BACKTRACE=1 ./bitz
+ ```
+```bash
+solana config get
+ ```
+```bash
+sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
+ ```
+```bash
+cargo install bitz --force
+ ```
+```bash
+screen -S bitz
+ ```
